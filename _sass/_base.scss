@@ -41,7 +41,10 @@ p {
     line-height: 1.5;
     margin-bottom: 20px;
 }
-
+.vlastny_text{
+  font-size: 15px;
+  line-height: 200%;
+}
 .bg-primary {
     background-color: $theme-primary;
 }
@@ -348,4 +351,3 @@ img::-moz-selection {
 body {
     -webkit-tap-highlight-color: $theme-dark;
 }
-
