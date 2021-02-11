@@ -692,7 +692,7 @@ a {
   z-index: 1000;
   width: 100%;
   position: relative;
-  min-height: 60px;
+  min-height: 0px;
 }
 .cid-snkqRksRec nav.navbar {
   position: fixed;
@@ -1083,8 +1083,8 @@ a {
   justify-content: center;
 }
 .cid-snG681rHWg {
-  padding-top: 5rem;
-  padding-bottom: 4rem;
+  padding-top: 4rem;
+  padding-bottom: 3rem;
   background-color: #f5f5f5;
 }
 .cid-snG681rHWg .mbr-iconfont {
@@ -1113,8 +1113,8 @@ a {
   margin-bottom: 0;
 }
 .cid-sntGoz3ls5 {
-  padding-top: 5rem;
-  padding-bottom: 4rem;
+  padding-top: 4rem;
+  padding-bottom: 3rem;
   background-color: #ffffff;
 }
 .cid-sntGoz3ls5 .item {
@@ -1173,8 +1173,8 @@ a {
   }
 }
 .cid-snLd68nSX4 {
-  padding-top: 5rem;
-  padding-bottom: 4rem;
+  padding-top: 4rem;
+  padding-bottom: 3rem;
   background-color: #f5f5f5;
 }
 .cid-snLd68nSX4 .item {
@@ -1428,8 +1428,8 @@ a {
   color: #000000;
 }
 .cid-snpvChVx2V {
-  padding-top: 5rem;
-  padding-bottom: 4rem;
+  padding-top: 4rem;
+  padding-bottom: 3rem;
   background-color: #ffffff;
 }
 .cid-snpvChVx2V .video-wrapper iframe {
@@ -1442,7 +1442,7 @@ a {
 }
 .cid-snA2PhCpeK {
   padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-bottom: 4rem;
   background-color: #f5f5f5;
 }
 .cid-snA2PhCpeK .mbr-overlay {
